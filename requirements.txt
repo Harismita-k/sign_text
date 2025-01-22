@@ -1,3 +1,9 @@
 ultralytics==8.0.80
 gdown==4.7.0
 IPython==7.34.0
+FastAPI: 0.100.1
+Uvicorn: 0.21.1
+Torch (PyTorch): 2.4.1
+OpenCV-Python: 4.7.0.72
+Pillow: 9.4.0
+NumPy: 1.24.2
